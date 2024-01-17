@@ -8,3 +8,16 @@ The `batch_correction.R` script provides functionality for correcting batch effe
 ## Differential Gene Expression
 
 The `DESeq2.R` script is designed to identify genes that are differentially expressed between two or more conditions. This is crucial for understanding the biological significance of gene expression changes.
+
+## Requirements
+
+    R (version <4.0)
+
+# Getting Started
+
+    Clone the repository: git clone https://github.com/your_username/your_repository.git
+    Navigate to the repository: cd your_repository
+    Install required R packages as mentioned in the script.
+    Run batch correction and differential expression scripts as per the provided examples.
+
+Feel free to explore and adapt the R code for your specific needs. If you encounter any issues or have suggestions, please create an issue in the repository.
