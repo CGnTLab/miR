@@ -15,8 +15,8 @@ The `DESeq2.R` script is designed to identify genes that are differentially expr
 
 # Getting Started
 
-    Clone the repository: git clone https://github.com/your_username/your_repository.git
-    Navigate to the repository: cd your_repository
+    Clone the repository: git clone  https://github.com/CGnTLab/miR.git
+    Navigate to the repository: cd miR.git
     Install required R packages as mentioned in the script.
     Run batch correction and differential expression scripts as per the provided examples.
 
