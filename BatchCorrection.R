@@ -5,6 +5,14 @@
 ## introduced during sample processing. Methods like ComBat or surrogate variable analysis are 
 ## employed to adjust gene expression values, ensuring more accurate comparisons and reliable 
 ## downstream analyses by minimizing batch-related variability.
+
+##install package
+
+if (!require("BiocManager", quietly = TRUE))
+    install.packages("BiocManager")
+
+BiocManager::install("sva")
+
 library(sva)
 
 df<-read.csv("input.csv")
