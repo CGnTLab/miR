@@ -71,3 +71,9 @@ abline(h=2, col = "blue",lty=2)
 abline(v=0.2, col = "blue",lty=2)
 abline(v=-0.2, col = "blue",lty=2)
 dev.off()
+
+
+
+
+
+
